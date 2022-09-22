@@ -157,14 +157,8 @@ a:active{
     text-align: center;
 }
 
-.tabla h4{
-    display: inline;
-}
-
 .tabla-info{
-    display: flex;
-    flex-direction: column;
-    gap: 0.5em;
+    font-weight: bold;
 }
 
 .gamesInfo-contact{
@@ -174,6 +168,10 @@ a:active{
 .gi-contact{
     display: flex;
     justify-content: space-between;
+}
+
+.gi-contact>div{
+    margin-top: 0.7em;
 }
 
 .tabla>p{

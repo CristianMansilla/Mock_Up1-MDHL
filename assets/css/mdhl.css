@@ -183,6 +183,10 @@ a:active{
 }
 
 /** About MDHL **/
+.definition{
+    margin-right: 2em;
+}
+
 .definicion_evento{
     margin-bottom: 1.5em;
     padding-left: 1em;
